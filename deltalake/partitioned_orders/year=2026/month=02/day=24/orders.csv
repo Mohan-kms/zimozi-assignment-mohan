@@ -1,0 +1,11 @@
+order_id,customer_name,product_name,amount,order_date
+3,Customer_3,Product_3,6345.55,2026-02-24
+8,Customer_8,Product_3,9754.52,2026-02-24
+13,Customer_13,Product_3,1620.12,2026-02-24
+18,Customer_18,Product_3,2724.9,2026-02-24
+23,Customer_23,Product_3,6948.88,2026-02-24
+28,Customer_28,Product_3,7329.74,2026-02-24
+33,Customer_33,Product_3,6834.63,2026-02-24
+38,Customer_38,Product_3,1870.77,2026-02-24
+43,Customer_43,Product_3,6583.47,2026-02-24
+48,Customer_48,Product_3,760.32,2026-02-24
