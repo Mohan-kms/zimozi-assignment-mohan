@@ -93,10 +93,20 @@ S3 lifecycle rule added to automatically delete backup files after specified ret
 
 ---
 
+## Cleanup Commands (Mandatory)
+
+aws s3 rm s3://zimozi-mohan-2026-demo --recursive
+aws s3 rb s3://zimozi-mohan-2026-demo
+
+Athena table dropped using:
+DROP TABLE orders;
+DROP DATABASE saasdb;
+
 ## Screenshots Included
 
 - S3 Upload
 - Partition Structure
 - Lifecycle Policy
 - Athena Query Results
+- Aws Clean Deletion Proofs 
 - Billing Proof
