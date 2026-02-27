@@ -93,7 +93,7 @@ S3 lifecycle rule added to automatically delete backup files after specified ret
 
 ---
 
-## Cleanup Commands (Mandatory)
+## Cleanup Commands
 
 aws s3 rm s3://zimozi-mohan-2026-demo --recursive
 aws s3 rb s3://zimozi-mohan-2026-demo
