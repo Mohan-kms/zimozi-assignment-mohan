@@ -1,6 +1,6 @@
 BACKUP-RETENTION POLICY TASK LINK:
 
-https://drive.google.com/file/d/18ODDlB8jgpS0F9-tq-gRd45cwtRFm90l/view?usp=sharing
+https://youtu.be/sM99uOpUg60
 
 DATALAKE-ATHENA TASK LINK:
 
